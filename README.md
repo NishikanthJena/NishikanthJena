@@ -2,7 +2,7 @@
 - 🌍 I’m based in Hyderabad
 - 💻 See my portfolio at [MyPortfolio] ()
 - 📧 You can contact me at [nishikanthjena@gmail.com](mailto:nishikanthjena@gmail.com)
-- 🖇️ My linkedin [in/nishikanthjena/](in/nishikanthjena/)
+- 🖇️ My linkedin [in/nishikanthjena/](https://www.linkedin.com/in/nishikanthjena/)
 - 🌱 I’m currently learning Full Stack Development
 - 🤝 I’m open to collaborating on Projects
 - ⚡ I  Am Smart Man, Tell Everyone
