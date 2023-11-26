@@ -4,7 +4,7 @@
 - 📧 You can contact me at [nishikanthjena@gmail.com](mailto:nishikanthjena@gmail.com)
 - 🌱 I’m currently learning Full Stack Development
 - 🤝 I’m open to collaborating on Projects
-- ⚡ I Am Smart Man, Tell Everyone
+- ⚡ I  Am Smart Man, Tell Everyone
 <!--- - 👀 I’m interested in ... ---->
 
 <!---
